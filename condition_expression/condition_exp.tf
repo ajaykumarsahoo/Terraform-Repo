@@ -1,7 +1,7 @@
 provider "aws" {
   region     = "us-west-2"
-  access_key = "AKIA2KMYS3UXFRD4YS4R"
-  secret_key = "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"
+  access_key = "xxxxxxxxxxxxxxxxxxx"
+  secret_key = "xxxxxxxxxxxxxxxxxxx"
 }
 
 variable "istest" {}
